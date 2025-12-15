@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+models_artifacts/
+data/raw/
+data/processed/
+.env
